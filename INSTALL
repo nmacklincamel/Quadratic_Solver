@@ -1,0 +1,3 @@
+./qsolve_run
+make run
+sudo make install
